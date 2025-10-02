@@ -1,4 +1,5 @@
 #💸 Análise Financeira Pessoal
+
 Este projeto é uma aplicação interativa desenvolvida com Python e Streamlit, voltada para o controle e visualização de finanças pessoais. A proposta é oferecer uma interface intuitiva para registrar transações, aplicar filtros dinâmicos e gerar gráficos que ajudam a entender o comportamento financeiro ao longo do tempo.
 
 #🎯 Objetivo
